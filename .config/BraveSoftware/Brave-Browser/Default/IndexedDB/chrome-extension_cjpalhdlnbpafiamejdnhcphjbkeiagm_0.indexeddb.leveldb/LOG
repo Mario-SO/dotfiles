@@ -1,0 +1,5 @@
+2020/08/28-12:57:30.753 12be Reusing MANIFEST /home/mario5o/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/28-12:57:32.767 12c1 Level-0 table #5: started
+2020/08/28-12:57:32.776 12c1 Level-0 table #5: 217 bytes OK
+2020/08/28-12:57:32.800 12c1 Delete type=0 #3
+2020/08/28-12:57:32.800 12c1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

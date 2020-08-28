@@ -1,0 +1,18 @@
+2020/08/28-12:54:43.354 10a4 Reusing MANIFEST /home/mario5o/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2020/08/28-12:54:43.354 10a4 Recovering log #22
+2020/08/28-12:54:43.354 10a4 Reusing old log /home/mario5o/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000022.log 
+2020/08/28-13:06:12.464 1483 Level-0 table #26: started
+2020/08/28-13:06:12.476 1483 Level-0 table #26: 18964 bytes OK
+2020/08/28-13:06:12.487 1483 Delete type=0 #22
+2020/08/28-13:06:12.487 1483 Compacting 4@0 + 1@1 files
+2020/08/28-13:06:12.498 1483 Generated table #27@0: 178 keys, 78651 bytes
+2020/08/28-13:06:12.498 1483 Compacted 4@0 + 1@1 files => 78651 bytes
+2020/08/28-13:06:12.509 1483 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/08/28-13:06:12.509 1483 Delete type=2 #23
+2020/08/28-13:06:12.509 1483 Delete type=2 #18
+2020/08/28-13:06:12.509 1483 Delete type=2 #21
+2020/08/28-13:06:12.509 1483 Delete type=2 #26
+2020/08/28-13:06:12.509 1483 Delete type=2 #16
+2020/08/28-16:28:49.349 1483 Level-0 table #29: started
+2020/08/28-16:28:49.362 1483 Level-0 table #29: 66404 bytes OK
+2020/08/28-16:28:49.372 1483 Delete type=0 #25

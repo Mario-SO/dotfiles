@@ -1,0 +1,15 @@
+2020/08/28-12:52:16.932 f0b Reusing MANIFEST /home/mario5o/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_roamresearch.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/28-12:52:16.932 f0b Recovering log #4
+2020/08/28-12:52:16.932 f0b Reusing old log /home/mario5o/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_roamresearch.com_0.indexeddb.leveldb/000004.log 
+2020/08/28-12:52:33.655 d55 Level-0 table #8: started
+2020/08/28-12:52:33.665 d55 Level-0 table #8: 7497 bytes OK
+2020/08/28-12:52:33.676 d55 Delete type=0 #4
+2020/08/28-12:52:33.677 d55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/28-12:52:33.677 d55 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x01\x02\x01\x01\x000' @ 14956 : 0
+2020/08/28-12:52:33.677 d55 Compacting 1@1 + 1@2 files
+2020/08/28-12:52:33.699 d55 Generated table #9@1: 1096 keys, 144226 bytes
+2020/08/28-12:52:33.699 d55 Compacted 1@1 + 1@2 files => 144226 bytes
+2020/08/28-12:52:33.710 d55 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/28-12:52:33.710 d55 Delete type=2 #5
+2020/08/28-12:52:33.710 d55 Delete type=2 #8
+2020/08/28-12:52:33.711 d55 Manual compaction at level-1 from '\x00\x04\x01\x02\x01\x01\x000' @ 14956 : 0 .. (end); will stop at (end)

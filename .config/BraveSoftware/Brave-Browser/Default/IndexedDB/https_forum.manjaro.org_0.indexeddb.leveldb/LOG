@@ -1,0 +1,15 @@
+2020/08/28-12:45:57.448 d43 Reusing MANIFEST /home/mario5o/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/28-12:45:57.448 d43 Recovering log #15
+2020/08/28-12:45:57.448 d43 Reusing old log /home/mario5o/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/000015.log 
+2020/08/28-12:46:42.148 d55 Level-0 table #20: started
+2020/08/28-12:46:42.163 d55 Level-0 table #20: 84594 bytes OK
+2020/08/28-12:46:42.175 d55 Delete type=0 #15
+2020/08/28-12:46:42.175 d55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/28-12:46:42.175 d55 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00\xa0\xb3\xcbJCwB\x00\x01R\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00s\x00e\x00a\x00r\x00c\x00h\x00?\x00q\x00=\x00i\x003\x00%\x002\x000\x00l\x00a\x00y\x00o\x00u\x00t\x00s\x00%\x002\x000\x00a\x00n\x00d\x00%\x002\x000\x00o\x00p\x00a\x00c\x00i\x00t\x00y\x00&\x00p\x00a\x00g\x00e\x00=\x001' @ 6688 : 1
+2020/08/28-12:46:42.175 d55 Compacting 1@1 + 1@2 files
+2020/08/28-12:46:42.189 d55 Generated table #21@1: 578 keys, 60119 bytes
+2020/08/28-12:46:42.189 d55 Compacted 1@1 + 1@2 files => 60119 bytes
+2020/08/28-12:46:42.200 d55 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/28-12:46:42.200 d55 Delete type=2 #20
+2020/08/28-12:46:42.200 d55 Delete type=2 #17
+2020/08/28-12:46:42.201 d55 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00\xa0\xb3\xcbJCwB\x00\x01R\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00m\x00a\x00n\x00j\x00a\x00r\x00o\x00.\x00o\x00r\x00g\x00/\x00s\x00e\x00a\x00r\x00c\x00h\x00?\x00q\x00=\x00i\x003\x00%\x002\x000\x00l\x00a\x00y\x00o\x00u\x00t\x00s\x00%\x002\x000\x00a\x00n\x00d\x00%\x002\x000\x00o\x00p\x00a\x00c\x00i\x00t\x00y\x00&\x00p\x00a\x00g\x00e\x00=\x001' @ 6688 : 1 .. (end); will stop at (end)
