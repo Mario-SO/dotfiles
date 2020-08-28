@@ -1,9 +1,0 @@
-2020/08/28-12:08:40.297 4e1 Reusing MANIFEST /home/mario5o/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
-2020/08/28-12:08:40.298 4e1 Recovering log #17
-2020/08/28-12:08:40.298 4e1 Reusing old log /home/mario5o/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000017.log 
-2020/08/28-12:26:06.166 c6a Level-0 table #21: started
-2020/08/28-12:26:06.180 c6a Level-0 table #21: 20633 bytes OK
-2020/08/28-12:26:06.189 c6a Delete type=0 #17
-2020/08/28-12:44:29.124 c6a Level-0 table #23: started
-2020/08/28-12:44:29.136 c6a Level-0 table #23: 14937 bytes OK
-2020/08/28-12:44:29.147 c6a Delete type=0 #20
